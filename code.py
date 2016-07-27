@@ -1,5 +1,3 @@
-import json
-import string
 from flask import Flask, request,render_template, redirect
 from ipaddress import IPv4Network,IPv4Address
 
